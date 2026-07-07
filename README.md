@@ -22,3 +22,9 @@ This study experimentally evaluated ultrashort-pulse laser groove microtexturing
 ├── void area result.xlsx
 ├── LICENSE
 └── README.md
+
+## License
+
+The data, X-ray images, void-area analysis results, and related documentation in this repository are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You are free to share and adapt the material for any purpose, including commercial use, provided that appropriate credit is given, a link to the license is provided, and any changes are indicated.
+If you use this dataset, please cite the associated paper and the Zenodo archive.
